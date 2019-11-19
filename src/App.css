@@ -20,3 +20,8 @@
 .App-link {
   color: #09d3ac;
 }
+
+.flex-input {
+  width: 100%;
+  margin-top: 10px;
+}
